@@ -92,12 +92,14 @@ div {
 
 .item1 {
     color: #bf0505;
+    
 }
 
 .item2 {
     color: cyan;
+    
+    
 }
-
 .item3 {
     color: firebrick;
     font-weight: 900;
