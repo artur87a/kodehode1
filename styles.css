@@ -49,9 +49,14 @@ p  {
     font-family: monospace;
 }
 .endtext {
-    color: gold;
-    font-size: 30px;
+   
+    text-shadow: 22px 2px #000000;
+    text-transform: lowercase;
+    transition-duration: 2s;
+    
+
 }
+
 /*  background-color, border, padding. */
 div {
     font-size: medium;
