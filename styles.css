@@ -1,6 +1,8 @@
 * {
     box-sizing: border-box;
-    margin: 20px;
+    margin:auto;
+    padding-top: 1vh;
+    
 /* (evt ta med margin-inline: 50px) */
 }
 
@@ -26,8 +28,9 @@ body{
     /* display: flex; */
     justify-content: center;
     align-items: center;
-    margin: 0;
-    width: 90vw;
+    
+    width: 100vh;
+    height: 100vh;
     /* height: ; */
     text-shadow: 8px 8px 10px #0000008c;
     background-color: #343a40;
@@ -35,8 +38,9 @@ body{
 }
 li{
    
-    margin-top: 5px;
+    margin-top: 10px;
     padding-left: 5px;
+    margin-bottom: 15px;
     color: white;
 }
 ul {
@@ -135,4 +139,11 @@ div .item7 {
 
 div .favorit {
     font-size: 20px;
+}
+
+.pic1 {
+    display: flex;
+    width: 50px;
+    
+    
 }
